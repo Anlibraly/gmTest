@@ -1,0 +1,19 @@
+{
+  "name": "gmtest",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "gm": "^1.9.0"
+  },
+  "devDependencies": {
+    "gm": "^1.9.0"
+  },
+  "engines": {
+    "node": ">= 4.3.0"
+  },
+  "author": {
+    "name" : "anlibraly",
+    "email" : "anlibraly@gmail.com",
+    "url" : "http://anlibraly.github.io/" 
+  }
+}
